@@ -1,0 +1,22 @@
+{
+  "1" : {
+    "title": "Салат із редиски",
+    "image": "images/film.jpeg"
+  },
+  "2" : {
+    "title": "Мафіни із курагою",
+    "image": "images/film.jpeg"
+  },
+  "3" : {
+    "title": "Овочевий суп",
+    "image": "images/film.jpeg"
+  },
+  "4" : {
+    "title": "Закуска із баклажанів",
+    "image": "images/film.jpeg"
+  },
+  "5" : {
+    "title": "Снікерс",
+    "image": "images/film.jpeg"
+  }
+}

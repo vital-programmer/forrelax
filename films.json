@@ -1,0 +1,22 @@
+{
+  "1" : {
+    "title": "Нічна зміна",
+    "image": "images/film.jpeg"
+  },
+  "2" : {
+    "title": "Смертні машини",
+    "image": "images/film.jpeg"
+  },
+  "3" : {
+    "title": "Завзяті шахраї",
+    "image": "images/film.jpeg"
+  },
+  "4" : {
+    "title": "Іноземець",
+    "image": "images/film.jpeg"
+  },
+  "5" : {
+    "title": "Дихай",
+    "image": "images/film.jpeg"
+  }
+}

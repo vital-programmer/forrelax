@@ -1,0 +1,27 @@
+{
+  "1" : {
+    "singer": "Леша Свик",
+    "title": "Светлофори",
+    "image": "images/film.jpeg"
+  },
+  "2" : {
+    "singer": "Artik&Asti",
+    "title": "Девочка танцуй",
+    "image": "images/film.jpeg"
+  },
+  "3" : {
+    "singer": "JONY, Andro",
+    "title": "Мадам",
+    "image": "images/film.jpeg"
+  },
+  "4" : {
+    "singer": "2Маши",
+    "title": "Спасибо",
+    "image": "images/film.jpeg"
+  },
+  "5" : {
+    "singer": "Фогель",
+    "title": "Бомба",
+    "image": "images/film.jpeg"
+  }
+}

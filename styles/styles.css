@@ -1,0 +1,386 @@
+.main {
+    background-color: #ECF7FC;
+}
+.header {
+    background-color: #354F60;
+    color: #9AC6CB;
+    position: fixed;
+    width: 100%;
+}
+#site_logo {
+    height: 130px;
+    margin: 0px;
+    text-align: center;
+    font-size: 110px;
+}
+#menu_background {
+    background-color: #577171;
+    margin-left: 0px;
+    width: 100%;
+    height: 90px;
+}
+#login {
+    margin-left: 1069px;
+    width: 280px;
+}
+.menu ul {
+    padding: 0;
+    margin-left: 280px;
+    margin-top: 0px;
+    display: table;
+    position: fixed;
+    width: 789px;
+}
+.menu li {
+    font-size: 120%;
+    display: table-cell;
+    background-color: #577171;
+    text-align: center;
+    position: relative;
+    text-transform: uppercase;
+}
+.menu button {
+    border: none;
+    color: #FFF;
+    height: 90px;
+    display: table-cell;
+    background-color: #577171;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    text-transform: uppercase;
+}
+.menu button:hover{
+    background-color: #FFF;
+    color: #577171;
+}
+.menu a {
+    color: #FFF;
+    text-decoration: none;
+    height: 90px;
+    display: inline-block;
+    line-height: 90px;
+    width: 100%;
+}
+.menu a:hover{
+    background-color: #FFF;
+    color: #577171;
+}
+.menu li:hover ul {
+    display: block;
+}
+#layout {
+    color: #060101;
+    background-color: #ECF7FC;
+}
+.top5 {
+    font-weight: bold;
+    border: solid #707070 1px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+#films, #games, #songs, #recipes {
+    height: 270px;
+    margin-top: 20px;
+}
+#top_free_space {
+    height: 40px;
+}
+#bottom_free_space {
+    height: 200px;
+}
+.film {
+    width: 150px;
+    padding: 3px;
+    height: 270px;
+    float: left;
+    text-align: center;
+}
+.film img {
+    width: 120px;
+}
+#film_list{
+    height: 1000px;
+    margin-top: 20px;
+}
+#film_list hr {
+    margin: 0px;
+    background-color: #707070;
+}
+#game_list{
+    height: 1000px;
+    margin-top: 20px;
+}
+#game_list hr {
+    margin: 0px;
+    background-color: #707070;
+}
+#song_list {
+    height: 500px;
+    margin-top: 20px;
+}
+.film_item {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 500px;
+    padding: 3px;
+    height: 210px;
+    float: left;
+    text-align: center;
+}
+
+.film_item img {
+    height: 207px;
+    float: left;
+}
+.film_info {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 500px;
+    padding: 3px;
+    height: 460px;
+    float: left;
+    text-align: center;
+}
+.film_info img {
+    height: 450px;
+    float: left;
+}
+.film_info a {
+    color: #F90426;
+    background-color: #577171;
+    text-decoration: none;
+    height: 45px;
+    display: inline-block;
+    line-height: 45px;
+    margin-top: 70px;
+}
+.film_description {
+    margin-top: 70px;
+    text-align: left;
+}
+.recipe_item {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 240px;
+    padding: 3px;
+    height: 250px;
+    float: left;
+    text-align: center;
+}
+.recipe_item img {
+    height: 207px;
+    float: left;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.recipe_title {
+    margin-top: 210px;
+    height: 30px;
+    background-color: #8398A1;
+    border: solid #707070 1px;
+}
+.song_item {
+    margin-left: -3px;
+    width: 795px;
+    padding: 3px;
+    height: 110px;
+    float: left;
+    text-align: center;
+}
+.song_item img {
+    margin-top: 6px;
+    margin-left: 40px;
+    height: 95px;
+    float: left;
+}
+.song_item hr {
+    margin: 0px;
+    background-color: #707070;
+}
+.song_item div {
+    height: 21px;
+}
+.singer {
+    font-weight: bold;
+    text-align: left;
+    margin-left: 150px;
+}
+.song_main_info {
+    margin-top: 40px;
+    margin-bottom: 0;
+    text-align: left;
+    margin-left: 150px;
+    width: 440px;
+}
+.title {
+    text-transform: uppercase;
+}
+.duration {
+    margin-top: -24px;
+    margin-left: 590px;
+    margin-bottom: 0;
+    width: 40px;
+}
+.film_main_info {
+    margin-top: 40px;
+    margin-bottom: 0;
+    text-align: left;
+    margin-left: 150px;
+}
+.film_all_info {
+    margin-top: 40px;
+    margin-bottom: 0;
+    text-align: left;
+    margin-left: 300px;
+    width: 450px;
+}
+#col1 {
+    padding: 20px;
+    background-color: #92BABF;
+    float: left;
+    width: 280px;
+}
+#col1 a {
+    color: #060101;
+    text-decoration: underline;
+}
+#col2 {
+    background-color: #ECF7FC;
+    float: left;
+    width: 789px;
+}
+#col2 hr {
+    margin-top: 0px;
+    background-color: #707070;
+}
+#col3 {
+    padding: 20px 35px;
+    background-color: #92BABF;
+    float: right;
+    width: 280px;
+    text-align: center;
+}
+#col3 p {
+    margin-bottom: 5px;
+}
+#col3 input {
+    margin-bottom: 5px;
+    border: solid #000 1px;
+}
+#col1_film {
+    padding: 20px;
+    background-color: #92BABF;
+    float: left;
+    width: 280px;
+}
+#col1_film a {
+    color: #060101;
+    text-decoration: underline;
+}
+#col2_film {
+    background-color: #ECF7FC;
+    float: left;
+    width: 789px;
+}
+#col2_film hr {
+    margin-top: 0px;
+    background-color: #707070;
+}
+#col3_film {
+    padding: 20px 35px;
+    background-color: #92BABF;
+    float: right;
+    width: 280px;
+    text-align: center;
+}
+#filters {
+    padding: 20px;
+    background-color: #ECF7FC;
+
+    font-size: 110%;
+    border: solid #707070 1px;
+    float: left;
+    width: 280px;
+}
+#filters ul {
+    list-style: none;
+    padding: 0;
+    width: 240px;
+    text-align: center;
+}
+#filters li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 44px;
+    vertical-align: center;
+    padding: 7px;
+    background-color: #8398A1;
+    text-align: center;
+    border: solid #707070 1px;
+}
+#filters button {
+    margin: -8px;
+    color: #FBF6F6;
+    height: 44px;
+    width: 240px;
+    vertical-align: center;
+    padding: 7px;
+    background-color: #8398A1;
+    text-align: center;
+    border: solid #707070 1px;
+}
+
+#list {
+    background-color: #ECF7FC;
+    float: left;
+    width: 1069px;
+}
+.space {
+    width: 100%;
+    margin-left: -8px;
+    height: 212px;
+}
+.footer {
+    background-color: #354F60;
+    position: absolute;
+    color: #9AC6CB;
+    text-align: center;
+    width: 100%;
+}
+.footer ul{
+    text-align: center;
+    list-style: none;
+}
+.footer ul a {
+    color: #9AC6CB;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.play_button {
+    background-color: #577171;
+    border: solid #707070 1px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 550px;
+    margin-top: -50px;
+}
+.pause_button {
+    background-color: #577171;
+    border: solid #707070 1px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 620px;
+    margin-top: -50px;
+}
+.play_button img {
+    height: 35px;
+    margin-left: 8px;
+}
+.pause_button img {
+    height: 35px;
+    margin-left: 8px;
+}

@@ -4,34 +4,39 @@
     "title": "Светлофори",
     "image": "images/film.jpeg",
     "duration": "3:30",
-    "song": "songs/song.mp3"
+    "song": "songs/song.mp3",
+    "genre": "Pop"
   },
   "2" : {
     "singer": "Artik&Asti",
     "title": "Девочка танцуй",
     "image": "images/film.jpeg",
     "duration": "3:30",
-    "song": "songs/song.mp3"
+    "song": "songs/song.mp3",
+    "genre": "Джаз"
   },
   "3" : {
     "singer": "JONY, Andro",
     "title": "Мадам",
     "image": "images/film.jpeg",
     "duration": "3:30",
-    "song": "songs/song.mp3"
+    "song": "songs/song.mp3",
+    "genre": "Класика"
   },
   "4" : {
     "singer": "2Маши",
     "title": "Спасибо",
     "image": "images/film.jpeg",
     "duration": "3:30",
-    "song": "songs/song.mp3"
+    "song": "songs/song.mp3",
+    "genre": "Джаз"
   },
   "5" : {
     "singer": "Фогель",
     "title": "Бомба",
     "image": "images/film.jpeg",
     "duration": "3:30",
-    "song": "songs/song.mp3"
+    "song": "songs/song.mp3",
+    "genre": "Club"
   }
 }
